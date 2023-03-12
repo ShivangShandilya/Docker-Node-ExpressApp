@@ -1,6 +1,6 @@
 # Docker-Node-ExpressApp
 
-This is a smaple application to demonstrate the ability to Run NodeJs applications on Docker Container.
+This is a sample application to demonstrate the ability to Run NodeJs applications on Docker Container.
 
 ## Prerequisites
 
